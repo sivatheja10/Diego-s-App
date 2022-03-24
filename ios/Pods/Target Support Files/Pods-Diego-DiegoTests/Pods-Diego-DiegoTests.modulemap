@@ -1,0 +1,6 @@
+module Pods_Diego_DiegoTests {
+  umbrella header "Pods-Diego-DiegoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
